@@ -1,0 +1,58 @@
+{
+  "triageCalls": [
+    {
+      "id": "call_101",
+      "callerName": "Ramesh Gupta",
+      "callerPhone": "+91 98110 42310",
+      "patientAge": 68,
+      "condition": "Post-stroke mobility assistance and vital monitoring",
+      "urgencyLevel": "High",
+      "careType": "ICU-Level Care",
+      "shiftRequirement": "12-Hour Night Shift",
+      "address": "B-42, Sector 62, Noida, UP",
+      "status": "Active",
+      "triageScore": 86,
+      "receivedAt": "2026-10-21T18:30:00Z"
+    },
+    {
+      "id": "call_102",
+      "callerName": "Anita Sharma",
+      "callerPhone": "+91 99580 11924",
+      "patientAge": 45,
+      "condition": "Post-operative surgical wound dressing & IV injection",
+      "urgencyLevel": "Standard",
+      "careType": "General Nursing",
+      "shiftRequirement": "Single Procedure (2-3 Hours)",
+      "address": "Flat 304, Marvel Heights, Indirapuram, Ghaziabad",
+      "status": "Active",
+      "triageScore": 64,
+      "receivedAt": "2026-10-21T19:10:00Z"
+    }
+  ],
+  "verifiedNurses": [
+    {
+      "id": "nurse_301",
+      "fullName": "Sunita Verma",
+      "registrationNo": "UPNC-88219",
+      "verificationStatus": "Verified",
+      "specialization": ["Critical Care", "Tracheostomy", "Geriatric Care"],
+      "experienceYears": 6,
+      "baseLocation": "Sector 62, Noida",
+      "isAvailable": true,
+      "rating": 4.9,
+      "totalShiftsCompleted": 142
+    },
+    {
+      "id": "nurse_302",
+      "fullName": "Pooja Mishra",
+      "registrationNo": "DNC-45102",
+      "verificationStatus": "Verified",
+      "specialization": ["General Nursing", "Wound Management", "IV Therapy"],
+      "experienceYears": 4,
+      "baseLocation": "Vaishali, Ghaziabad",
+      "isAvailable": true,
+      "rating": 4.8,
+      "totalShiftsCompleted": 98
+    }
+  ]
+}
